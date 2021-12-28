@@ -55,10 +55,6 @@ Abdullah bin Omer Zia, Saleha Zahrah Farooki and Talha Waheed.
 
 ## References
 
-1. Link to the github repository: 
-
-	[https://github.com/Talha0077/Semester-2-Project/tree/master](https://github.com/Talha0077/Semester-2-Project/tree/master)
-
-2. Slick2D Home
+Slick2D Home
 	
 	[http://slick.ninjacave.com/](http://slick.ninjacave.com/)
