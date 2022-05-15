@@ -49,7 +49,19 @@ Abdullah bin Omer Zia, Saleha Zahrah Farooki and Talha Waheed.
 3. The space bar to use the attack move
 4. You can use the escape key to pause the game and resume, go back to the main menu or quit the game
 
-##Notes
+## Screenshots
+### Main menu
+![image](https://user-images.githubusercontent.com/67051265/168488169-79b6fdec-fae4-42dd-9e0d-e8dadadecd24.png)
+### Info
+![image](https://user-images.githubusercontent.com/67051265/168488275-c3ec7ea5-93f3-4d41-ab11-952bc5fee127.png)
+### Level 1
+![image](https://user-images.githubusercontent.com/67051265/168488201-987a20dc-e664-4f41-bc39-13107e67dc04.png)
+### Level 2
+![image](https://user-images.githubusercontent.com/67051265/168488251-47ecc220-6e2c-4c87-8855-8c1df74d564a.png)
+### Level 3 (Boss)
+![image](https://user-images.githubusercontent.com/67051265/168488310-49978532-666c-4b3e-8eb5-7dbd7c1752f3.png)
+
+## Notes
 1. If the game is too hard for you and you want to complete it still just go to the Bucky class and on line number 73 change the health to a huge number.
 2. You can also go into the Game class and on line number 37 change the enter state to whatever you like.The game will start from that state.
 
