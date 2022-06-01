@@ -1,10 +1,7 @@
 
 #Sine of Madness with Slick2D
 
-A platformer game we built for our 2nd semester Object Oriented Programming course.
-
-#Authors
-Abdullah bin Omer Zia, Saleha Zahrah Farooki and Talha Waheed.
+A platformer game built for our 2nd semester Object Oriented Programming course.
 
 ## Prerequires (Libraries included in libs folder)
 
