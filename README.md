@@ -10,7 +10,7 @@ A platformer game built for our 2nd semester Object Oriented Programming course.
 3. LWJGL
 4. An IDE that supports java
 
-#Include Libraries in Intellij IDEA
+# Include Libraries in Intellij IDEA
 1. Go to the File menu
 2. Click project structure
 3. On the left side of the window click libraries
@@ -25,7 +25,7 @@ A platformer game built for our 2nd semester Object Oriented Programming course.
 12. Click OK and then click apply
 13. Finally, right click the Game class and click run
 
-#Include libraries in Eclipse
+# Include libraries in Eclipse
 1. On the left side of the eclipse window there would be the project that you have opened
 2. Right click it and then select Properties
 3. Under the search box there would be a Java Build Path option
