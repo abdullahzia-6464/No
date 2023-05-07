@@ -1,5 +1,5 @@
 
-#Sine of Madness with Slick2D
+# Sine of Madness with Slick2D
 
 A platformer game built for our 2nd semester Object Oriented Programming course.
 
